@@ -1,0 +1,808 @@
+[{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f19"
+  },
+  "name": "Pre-baked frozen fries",
+  "co2": 6.153,
+  "serving": "85 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f1a"
+  },
+  "name": "Mashed potatoes",
+  "co2": 1.087,
+  "serving": "210 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f1b"
+  },
+  "name": "Peeled potatoes",
+  "co2": 0.923,
+  "serving": "150 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f1c"
+  },
+  "name": "Beer",
+  "co2": 0.707,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f1d"
+  },
+  "name": "Banana",
+  "co2": 0.9,
+  "serving": "80 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f1e"
+  },
+  "name": "Red wine",
+  "co2": 2.021,
+  "serving": "100 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f1f"
+  },
+  "name": "Rose wine",
+  "co2": 2.159,
+  "serving": "100 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f20"
+  },
+  "name": "White Dry wine",
+  "co2": 2.277,
+  "serving": "100 nl"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f21"
+  },
+  "name": "Baguette",
+  "co2": 1.23,
+  "serving": "56 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f22"
+  },
+  "name": "Bread (Multigrain)",
+  "co2": 1.198,
+  "serving": "30 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f23"
+  },
+  "name": "Bread (rye)",
+  "co2": 1.436,
+  "serving": "25 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f24"
+  },
+  "name": "Bread (whole wheat)",
+  "co2": 1.033,
+  "serving": "30 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f25"
+  },
+  "name": "Crackers",
+  "co2": 1.772,
+  "serving": "28 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f26"
+  },
+  "name": "Croissant",
+  "co2": 2.424,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f27"
+  },
+  "name": "White Bread",
+  "co2": 1.191,
+  "serving": "30 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f28"
+  },
+  "name": "Avacado",
+  "co2": 1.315,
+  "serving": "136 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f29"
+  },
+  "name": "Coconut Milk",
+  "co2": 1.311,
+  "serving": "240 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f2a"
+  },
+  "name": "Dates (Dried)",
+  "co2": 2.291,
+  "serving": "20 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f2b"
+  },
+  "name": "Figs (Dried)",
+  "co2": 3.442,
+  "serving": "20 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f2c"
+  },
+  "name": "Figs",
+  "co2": 1.086,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f2d"
+  },
+  "name": "Grapes",
+  "co2": 1.1,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f2e"
+  },
+  "name": "Kiwi",
+  "co2": 0.721,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f2f"
+  },
+  "name": "Mandarin",
+  "co2": 0.865,
+  "serving": "88 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f30"
+  },
+  "name": "Mango",
+  "co2": 1.506,
+  "serving": "165 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f31"
+  },
+  "name": "Olives",
+  "co2": 2.38,
+  "serving": "30 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f32"
+  },
+  "name": "Orange",
+  "co2": 0.783,
+  "serving": "131 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f33"
+  },
+  "name": "Peach",
+  "co2": 1.506,
+  "serving": "147 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f34"
+  },
+  "name": "Pineapple",
+  "co2": 1.169,
+  "serving": "165 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f35"
+  },
+  "name": "Strawberry",
+  "co2": 2.38,
+  "serving": "16.6 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f36"
+  },
+  "name": "Apple pie",
+  "co2": 3.528,
+  "serving": "235 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f37"
+  },
+  "name": "Biscuit",
+  "co2": 3.525,
+  "serving": "10 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f38"
+  },
+  "name": "Ginger Bread",
+  "co2": 1.353,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f39"
+  },
+  "name": "Cake",
+  "co2": 5.75,
+  "serving": "40 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f3a"
+  },
+  "name": "Roti",
+  "co2": 1.482,
+  "serving": "20 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f3b"
+  },
+  "name": "Wheat Flour",
+  "co2": 0.884,
+  "serving": "120 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f3c"
+  },
+  "name": "Muesli",
+  "co2": 1.71,
+  "serving": "65 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f3d"
+  },
+  "name": "OatMeal",
+  "co2": 1.054,
+  "serving": "85 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f3e"
+  },
+  "name": "Pancake",
+  "co2": 2.277,
+  "serving": "150 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f3f"
+  },
+  "name": "Pasta",
+  "co2": 1.524,
+  "serving": "85 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f40"
+  },
+  "name": "Rice",
+  "co2": 1.784,
+  "serving": "150 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f41"
+  },
+  "name": "Bean Sprouts",
+  "co2": 2.689,
+  "serving": "90 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f42"
+  },
+  "name": "Frozen Green Beans",
+  "co2": 1.623,
+  "serving": "83 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f43"
+  },
+  "name": "Green Beans",
+  "co2": 1.06,
+  "serving": "55 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f44"
+  },
+  "name": "Broccoli",
+  "co2": 1.836,
+  "serving": "90 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f45"
+  },
+  "name": "Carrot",
+  "co2": 0.4,
+  "serving": "65 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f46"
+  },
+  "name": "Cauliflower",
+  "co2": 1.362,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f47"
+  },
+  "name": "Chicory",
+  "co2": 0.508,
+  "serving": "53 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f48"
+  },
+  "name": "Courgette",
+  "co2": 2.634,
+  "serving": "124 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f49"
+  },
+  "name": "Cucumber",
+  "co2": 1.878,
+  "serving": "52 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f4a"
+  },
+  "name": "Kale",
+  "co2": 1.599,
+  "serving": "67 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f4b"
+  },
+  "name": "Lettuce",
+  "co2": 0.686,
+  "serving": "85 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f4c"
+  },
+  "name": "Mushrooms",
+  "co2": 5.208,
+  "serving": "70 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f4d"
+  },
+  "name": "Onion",
+  "co2": 0.438,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f4e"
+  },
+  "name": "Peas with carrots",
+  "co2": 2,
+  "serving": "90 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f4f"
+  },
+  "name": "Spinach",
+  "co2": 2.228,
+  "serving": "10 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f50"
+  },
+  "name": "Bell Pepper",
+  "co2": 3.71,
+  "serving": "119 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f51"
+  },
+  "name": "Tomato",
+  "co2": 1.792,
+  "serving": "40 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f52"
+  },
+  "name": "Peanut Butter",
+  "co2": 8.678,
+  "serving": "16 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f53"
+  },
+  "name": "Mayonnaise",
+  "co2": 5.518,
+  "serving": "13 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f54"
+  },
+  "name": "Tomato Sauce",
+  "co2": 1.169,
+  "serving": "6 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f55"
+  },
+  "name": "Potato Chips",
+  "co2": 4.833,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f56"
+  },
+  "name": "Popcorn",
+  "co2": 0.95,
+  "serving": "40 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f57"
+  },
+  "name": "Sausage Roll",
+  "co2": 5.396,
+  "serving": "161 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f58"
+  },
+  "name": "Mozzarella",
+  "co2": 8.457,
+  "serving": "28 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f59"
+  },
+  "name": "Cream",
+  "co2": 4.457,
+  "serving": "30 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f5a"
+  },
+  "name": "Ice cream",
+  "co2": 4.61,
+  "serving": "65 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f5b"
+  },
+  "name": "Milk",
+  "co2": 2.086,
+  "serving": "120 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f5c"
+  },
+  "name": "Yoghurt",
+  "co2": 2.355,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f5d"
+  },
+  "name": "Cappuccino",
+  "co2": 1.496,
+  "serving": "100 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f5e"
+  },
+  "name": "Coffee",
+  "co2": 0.295,
+  "serving": "100 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f5f"
+  },
+  "name": "Soft Drinks",
+  "co2": 0.6,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f60"
+  },
+  "name": "Fruit Drink",
+  "co2": 0.603,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f61"
+  },
+  "name": "Apple Juice",
+  "co2": 0.653,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f62"
+  },
+  "name": "Lemonade",
+  "co2": 0.191,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f63"
+  },
+  "name": "Mineral Water",
+  "co2": 0.359,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f64"
+  },
+  "name": "Tap Water",
+  "co2": 0.001,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f65"
+  },
+  "name": "Almonds",
+  "co2": 4.871,
+  "serving": "10 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f66"
+  },
+  "name": "Cashew nuts",
+  "co2": 4.255,
+  "serving": "10 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f67"
+  },
+  "name": "Hazel nuts",
+  "co2": 3.889,
+  "serving": "10 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f68"
+  },
+  "name": "Linseed",
+  "co2": 1.669,
+  "serving": "13 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f69"
+  },
+  "name": "Pistachios",
+  "co2": 3.974,
+  "serving": "16 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f6a"
+  },
+  "name": "walnuts",
+  "co2": 3.306,
+  "serving": "15 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f6b"
+  },
+  "name": "Brown Beans",
+  "co2": 1.883,
+  "serving": "20 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f6c"
+  },
+  "name": "Chickpeas",
+  "co2": 3.728,
+  "serving": "13 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f6d"
+  },
+  "name": "Chocolate",
+  "co2": 6.058,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f6e"
+  },
+  "name": "Honey",
+  "co2": 1.122,
+  "serving": "6 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f6f"
+  },
+  "name": "Butter",
+  "co2": 12.238,
+  "serving": "33 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f70"
+  },
+  "name": "Olive oil",
+  "co2": 7.172,
+  "serving": "30 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f71"
+  },
+  "name": "SunFlower oil",
+  "co2": 5.011,
+  "serving": "30 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f72"
+  },
+  "name": "Chicken",
+  "co2": 13.55,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f73"
+  },
+  "name": "Hamburger",
+  "co2": 30.026,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f74"
+  },
+  "name": "Pork",
+  "co2": 12.419,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f75"
+  },
+  "name": "Soydrink",
+  "co2": 0.76,
+  "serving": "200 ml"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f76"
+  },
+  "name": "Meat",
+  "co2": 27,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f77"
+  },
+  "name": "Fish",
+  "co2": 3,
+  "serving": "100 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f78"
+  },
+  "name": "Shrimps/Prawns",
+  "co2": 12,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f79"
+  },
+  "name": "Pizza",
+  "co2": 1.1,
+  "serving": "150 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f7a"
+  },
+  "name": "Burger",
+  "co2": 2.5,
+  "serving": "90 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f7b"
+  },
+  "name": "Corn",
+  "co2": 1.3,
+  "serving": "80 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f7c"
+  },
+  "name": "Soyabean",
+  "co2": 2,
+  "serving": "50 g"
+},
+{
+  "_id": {
+    "$oid": "667ad991ff4250ad8d108f7d"
+  },
+  "name": "Mustard Oil",
+  "co2": 3,
+  "serving": "30 ml"
+}]
