@@ -17,7 +17,7 @@ const TransportationTracker = () => {
           latitude: position.coords.latitude,
           longitude: position.coords.longitude,
         });
-        axios.post('http://localhost:5000/api/start-tracking', {
+        axios.post('http://localhost:8000/api/start-tracking', {
           mode,
           model,
           mileage,
@@ -47,7 +47,7 @@ const TransportationTracker = () => {
           latitude: position.coords.latitude,
           longitude: position.coords.longitude,
         });
-        axios.post('http://localhost:5000/api/end-tracking', {
+        axios.post('http://localhost:8000/api/end-tracking', {
           tripId,
           endLocation: {
             latitude: position.coords.latitude,
